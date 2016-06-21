@@ -1,0 +1,14 @@
+layout_spectrum: 0.6784367666114122
+typography_spectrum: 0.43847463373094797
+color:
+  brandStrength: 0.6439666077494621
+  lightness: 0.5646519677247852
+  saturation: 0.8435179381631315
+  rhythmicContrast: 0.5659867890644819
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: dumb
